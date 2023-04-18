@@ -20,3 +20,12 @@ if side_check:
 # use this to run in terminal: 
 # python -m streamlit run app.py 
 
+
+
+# USE THIS TO ADD TO GITHUB, RUN IN TERMINAL 
+# git init 
+# git add . (adds all files)
+# git commit -m "initial commit" 
+# git branch -M main 
+# git remote add origin https://github.com/noorbenny/streamlit_app.git 
+# git push -u origin main 
