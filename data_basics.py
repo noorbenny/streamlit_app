@@ -7,3 +7,5 @@ d = rng.random((3, 3))
 print(d) 
 
 print(pd.DataFrame(data = d))
+
+# to activate venv: venv/Scripts/activate 
