@@ -6,4 +6,6 @@ rng = np.random.default_rng(123)
 d = rng.random((3, 3))
 print(d) 
 
-print(pd.DataFrame(data = d))
+print(pd.DataFrame(data = d)) 
+
+# to activate venv: venv/Scripts/activate 
