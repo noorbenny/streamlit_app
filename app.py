@@ -100,10 +100,6 @@ elif web_apps == "Correlation":
             st.write("Please select exactly two columns.")
 
 
-# use this to run in terminal: 
-# python -m streamlit run app.py 
-
-
 
 # USE THIS TO ADD TO GITHUB, RUN IN TERMINAL 
 # git init 
